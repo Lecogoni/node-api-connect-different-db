@@ -1,0 +1,5 @@
+exports.myDT = () => {
+
+  return Date();
+
+}
